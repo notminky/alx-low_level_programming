@@ -1,7 +1,9 @@
 #include <stdio.h>
-
-int main(int argc, char *argv[]) {
-    // Print the program name (including the path)
+#include <stdlib.h>
+int main(int argc, char **argv)
+{
+    if (argc < 1)
+        exit(EXIT_FAILURE);
     printf("%s\n", argv[0]);
-    return 0;
+    return EXIT_SUCCESS;
 }
