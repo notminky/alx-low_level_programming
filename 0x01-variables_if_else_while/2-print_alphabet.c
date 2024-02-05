@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**main project on alphabet*/
 int main(void)
-int main(void)
 {
     char letter;
     for (letter = 'a'; letter <= 'z'; letter++)
