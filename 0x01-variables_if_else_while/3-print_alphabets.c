@@ -2,10 +2,10 @@
 int main(void)
 
 /**
-* main - Prints the alphabet in lowercase, and then in uppercase.
-*
-* Return: always 0.
-*/
+ * main - Prints the alphabet in lowercase, and then in uppercase.
+ *
+ * Return: Always 0.
+ */
 {
 	char letter;
 	
