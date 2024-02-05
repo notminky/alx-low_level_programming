@@ -3,7 +3,7 @@ int main(void)
 /**
 *main - prints alphabet in lower case then upper case
 *
-*return: always 0
+*return: always 0.
 */
 {
 	char letter;
