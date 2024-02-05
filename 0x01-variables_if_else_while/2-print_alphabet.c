@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 int main(void){
 char letter;
 for (letter = 'a'; letter <= 'z'; letter++)
