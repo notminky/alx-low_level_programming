@@ -1,5 +1,10 @@
 #include <stdio.h>
-/**main project on alphabet*/
+/**
+	*main- prints the alphater in lower case.
+*
+*
+*Return: awlays0.
+*/
 int main(void)
 {
 	char letter;
